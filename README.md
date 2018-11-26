@@ -1,2 +1,3 @@
 # Simple-Draft-JS-editor
-A simple DraftJS editor
+
+![DraftJs screenshot](https://ch3302files.storage.live.com/y4mCcQvGNvVCbjTAMuDrQJoxlwAqwcJROQturbFHPTUX3CsRCfFddpCKmaxndEohj_O7ooh5eUcX4MTHPs2Cp060YlmkqFswDmSPMgsvOKBrPjL452Wby4mEkTZHauLZ6xnSA6U5Hr7hj4JsUk9j2Sbz_d2qWhxzRVSSWpdV2vzfzMP8k6E3WnQ6kLUEGkYmXXVfoDaDze8atBq6eXEJXVSYA/draftjs-screen-shot.jpg?psid=1&width=600&height=400)
